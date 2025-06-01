@@ -1,0 +1,6 @@
+Classification/dataset/*
+Classification/model/*
+Sequentional/dataset/*
+Sequentional/model/*
+Object Detection/dataset/*
+Object Detection/model/*
